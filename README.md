@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     BCS REPORT TOOL — README v3
+     BCF REPORT TOOL — README v3
      Channel   : https://t.me/BLACK_CYBER_FORCE
      Developer : @BcS_RaiFuL
      ═══════════════════════════════════════════════════════════════════ -->
@@ -16,7 +16,7 @@
 <br><br>
 
 <a href="https://t.me/BLACK_CYBER_FORCE">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=54&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=BCS+REPORT+TOOL;Telegram+Moderation+%26+Report+Automation;Built+for+Operators" alt="hero" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=54&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=BCF+REPORT+TOOL;Telegram+Moderation+%26+Report+Automation;Built+for+Operators" alt="hero" />
 </a>
 
 <!-- holographic pulse ring -->
@@ -24,10 +24,10 @@
 
 <!-- animated status grid -->
 <p>
-  <img src="https://img.shields.io/github/v/release/YOUR_USERNAME/bcs-report-tool?style=for-the-badge&color=00E5FF&labelColor=0d1117&logo=github" />
-  <img src="https://img.shields.io/github/license/YOUR_USERNAME/bcs-report-tool?style=for-the-badge&color=7B2FF7&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/bcs-report-tool?style=for-the-badge&color=FF2E63&labelColor=0d1117&logo=github" />
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/bcs-report-tool?style=for-the-badge&color=00FF88&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/v/release/raiful117/BCF-TG-REPORT?style=for-the-badge&color=00E5FF&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/license/raiful117/BCF-TG-REPORT?style=for-the-badge&color=7B2FF7&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/raiful117/BCF-TG-REPORT?style=for-the-badge&color=FF2E63&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/forks/raiful117/BCF-TG-REPORT?style=for-the-badge&color=00FF88&labelColor=0d1117&logo=github" />
 </p>
 
 <p>
@@ -169,8 +169,8 @@
 
 ```bash
 # 1 · clone
-git clone https://github.com/YOUR_USERNAME/bcs-report-tool.git
-cd bcs-report-tool
+git clone https://github.com/raiful117/BCF-TG-REPORT.git
+cd BCF-TG-REPORT
 
 # 2 · virtual environment
 python3 -m venv venv
@@ -181,7 +181,7 @@ source venv/bin/activate          # Linux / Termux
 pip install -r requirements.txt
 
 # 4 · launch
-python3 report.py
+python3 main.py
 ```
 
 <details>
@@ -240,7 +240,7 @@ rsa==4.9
   ██████╔╝╚██████╗███████║
   ╚═════╝  ╚═════╝╚══════╝
 ==============================================================
-          [ BCS REPORT TOOL ]
+          [ BCF REPORT TOOL ]
 ==============================================================
    Channel   : https://t.me/BLACK_CYBER_FORCE
    Developer : @BcS_RaiFuL
@@ -370,8 +370,8 @@ evidence comment: This channel shared 18+ content
 </div>
 
 ```text
-bcs-report-tool/
-├── report.py              # main CLI
+BCF-TG-REPORT/
+├── main.py              # main CLI
 ├── requirements.txt       # pinned dependencies
 ├── README.md
 ├── .gitignore
@@ -496,6 +496,6 @@ Delete the `.session` file and re-add via Menu → 1.
 
 ### ⭐ Star the repo if this helped
 
-`BCS REPORT TOOL` · built by [`@BcS_RaiFuL`](https://t.me/BcS_RaiFuL) for [`BLACK_CYBER_FORCE`](https://t.me/BLACK_CYBER_FORCE)
+`BCF REPORT TOOL` · built by [`@BcS_RaiFuL`](https://t.me/BcS_RaiFuL) for [`BLACK_CYBER_FORCE`](https://t.me/BLACK_CYBER_FORCE)
 
 </div>
