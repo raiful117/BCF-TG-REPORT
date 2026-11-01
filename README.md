@@ -1,6 +1,3 @@
-```markdown
-<!-- language: markdown, file: README.md -->
-
 <!-- ═══════════════════════════════════════════════════════════════════
      BCS REPORT TOOL — README v3
      Channel   : https://t.me/BLACK_CYBER_FORCE
